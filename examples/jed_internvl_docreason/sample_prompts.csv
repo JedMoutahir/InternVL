@@ -1,0 +1,3 @@
+image,question,ref
+/path/to/doc_page1.png,Extract the title and the publication date.,Document Title 2024-02-11
+/path/to/table1.png,What is the sum of the last column and which row has the maximum value?,Total 128; Row 5
